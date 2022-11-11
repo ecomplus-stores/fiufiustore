@@ -1,7 +1,7 @@
 {
   "domain": "fiufiustore.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#41ff2b",
+  "primary_color": "#0e0e0e",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
