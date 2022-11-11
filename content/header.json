@@ -1,7 +1,8 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 50%!",
-    "link": "/promotion"
+    "text": "Aproveite nosso esquenta black friday",
+    "link": "/promotion",
+    "color": ""
   },
   "contacts_stripe": {
     "pages": [
