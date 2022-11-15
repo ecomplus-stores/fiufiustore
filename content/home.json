@@ -45,6 +45,14 @@
       "sort": "lowest_price"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620ea3327963422eee0a5941:categories:T-SHIRTS:/t-shirts",
+      "sort": "sales"
+    },
+    {
       "type": "page-title",
       "title": "",
       "description": ""
