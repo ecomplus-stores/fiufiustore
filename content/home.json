@@ -38,7 +38,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 12,
       "page": 1,
       "collection_id": "620ea3987963422eee0a5a41:categories:SHORTS:/shorts",
