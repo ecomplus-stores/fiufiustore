@@ -28,7 +28,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
+      "shuffle": false,
       "collection_id": "620ea2627963422eee0a5734:categories:VESTIDOS:/vestidos",
       "sort": "news",
       "title": "",
