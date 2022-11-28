@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.9ff6d71c541b625b5b893697acdba97a.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.6f060cbe3ca716379965c16a20e86a15.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.05046aea816bc9ce3f8a157498150f2d.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.0daefedb87f660bf2980456a977e93bc.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.643839edeecadfd14b8aadb59dce586a.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "fiufiustore",
+  "short_name": "fiufiustore",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "fiufiustore",
+  "background_color": "#1f1f1f",
+  "theme_color": "#0e0e0e"
+}
